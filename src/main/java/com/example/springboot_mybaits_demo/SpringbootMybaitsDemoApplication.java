@@ -21,6 +21,7 @@ import javax.sql.DataSource;
 public class SpringbootMybaitsDemoApplication {
 
     public static void main(String[] args) {
+        System.out.println("123");
         SpringApplication.run(SpringbootMybaitsDemoApplication.class, args);
     }
 
